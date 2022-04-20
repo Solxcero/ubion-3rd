@@ -1,5 +1,28 @@
-# _ubion_
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DfXXOa8ijEkgewLd8ZfmKZX-jnD8O1l4-w&usqp=CAU)
+ ✨**OSMU**✨
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DfXXOa8ijEkgewLd8ZfmKZX-jnD8O1l4-w&usqp=CAU" width="40%">
+[![Gmail Badge](https://img.shields.io/badge/-rumbini98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumbini98@gmail.com)](mailto:rumbini98@gmail.com)
+
+## 💻 ~ing
+> 금융빅데이터분석
+- ~~Python~~
+- ~~Machine Learning~~
+- Hackathon
+- Project 1
+- Project 2
+
+## 🤐 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+
+## 🌍 World
+- South Korea
+- España
+
+## 📘 Bio
+
+
+## 🙋🏻 
+
+

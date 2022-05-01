@@ -24,3 +24,6 @@
 2. LinearModel
 3. DecisionTree
 4. Ensemble
+
+------------------------------------------------
+### Unsupervised Learning 🎮

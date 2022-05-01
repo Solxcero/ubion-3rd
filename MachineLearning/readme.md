@@ -1,4 +1,4 @@
-## 📘 MachineLearning with Python 2nd
+## 📘 MachineLearning with Python
 
 ### Supervised Learning 🤖
 

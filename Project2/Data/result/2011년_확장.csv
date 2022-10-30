@@ -1,0 +1,3 @@
+thresholds,models,Accuracy,Precision,Recall,F1 score,Auc_Score
+0.9,XGBClassifier,0.976,0.5294117647058824,0.6,0.5625,0.9261100066269052
+0.8,RandomForestClassifier,0.982,1.0,0.6,0.7499999999999999,0.9466202783300199

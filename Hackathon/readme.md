@@ -1,3 +1,4 @@
+## 📝 주식시장 예측을 위한 코로나지수 만들기
 ![슬라이드1](https://user-images.githubusercontent.com/99321739/207220071-297e6d49-ce48-421f-8213-c67a014b7237.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/99321739/207220078-d916297a-5ed2-4776-a8d1-bf72c69cfb99.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/99321739/207220080-e7127ac6-f66f-472f-9a29-6bf360665880.PNG)
